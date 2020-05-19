@@ -1,0 +1,3 @@
+#!/bin/sh
+gcc cpu.c interrupts.c io.c cpu_plugin.c test.c -o emu-test -lcriterion -lSDL
+./emu-test

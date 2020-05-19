@@ -1,0 +1,6 @@
+*.rom
+.vscode
+.DS_Store
+*.o
+emu
+emu-test
